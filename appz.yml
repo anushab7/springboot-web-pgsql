@@ -13,7 +13,7 @@ build:
 deploy:
   context: anushab7/PROD
   port: 8080
-  replicas: 1
+  replicas: 2
   
 properties:
   title: Spring Boot Web PROD - Wednesday 
